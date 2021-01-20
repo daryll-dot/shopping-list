@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2021-01-20 13:43:39</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 13:04:01</sys_created_on>
+        <sys_id>2e51c50a2f7560106a61b8e72799b6d0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>dpbrdKAPHoM:APA91bHuxgDthnk_SR6anwVU85qflvGCxk1qVs0JF2kk6E3Y1f-tZP-PJpOe7SC6G8F10sNezqA_SSjx7O6_KuzVUMgd1zzoW1_HwHU-Nihp5Xs1HC3KF6N0hiTVvWno-BMl242QcLnt</sys_name>
+        <sys_package display_value="Shopping List" source="x_572081_shopping">e63bf0062f7560106a61b8e72799b66c</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Shopping List">e63bf0062f7560106a61b8e72799b66c</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_2e51c50a2f7560106a61b8e72799b6d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 13:43:39</sys_updated_on>
+        <sys_user_id display_value="Daryll John Villaflor">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>dpbrdKAPHoM:APA91bHuxgDthnk_SR6anwVU85qflvGCxk1qVs0JF2kk6E3Y1f-tZP-PJpOe7SC6G8F10sNezqA_SSjx7O6_KuzVUMgd1zzoW1_HwHU-Nihp5Xs1HC3KF6N0hiTVvWno-BMl242QcLnt</token>
+    </sys_push_notif_app_install>
+</record_update>
